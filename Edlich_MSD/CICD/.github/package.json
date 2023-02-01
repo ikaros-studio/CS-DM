@@ -1,0 +1,11 @@
+{
+    "name": "my-simple-html-page",
+    "version": "1.0.0",
+    "dependencies": {
+        "htmlhint": "^0.12.0",
+        "jest": "^26.4.2"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
